@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #8ab4f8;
+  }
+
+  .site-header,
+  .site-footer {
+    background-color: #1a1a1a;
+  }
+
+  pre, code {
+    background-color: #1e1e1e;
+  }
+}
