@@ -1,3 +1,6 @@
+---
+title: 🎓 Kroma Learning Hub
+---
 
 A centralized collection of **clear, concise learning notes** for college-level courses, built while actively taking the classes at **Cedarville University**.
 

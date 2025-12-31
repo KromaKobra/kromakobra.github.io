@@ -1,3 +1,14 @@
-theme: minima
 title: Learning Notes
 description: Explaining what I learn to understand it better
+theme: minima
+
+minima:
+  skin: auto
+
+markdown: kramdown
+
+kramdown:
+  math_engine: katex
+
+plugins:
+  - jekyll-feed
