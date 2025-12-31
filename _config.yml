@@ -3,7 +3,7 @@ description: Explaining what I learn to understand it better
 theme: minima
 
 minima:
-  skin: auto
+  skin: dark
 
 markdown: kramdown
 
