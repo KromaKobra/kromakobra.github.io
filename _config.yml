@@ -1,6 +1,6 @@
 title: Learning Notes
 description: Explaining what I learn to understand it better
-theme: minima
+theme: jekyll-theme-minima
 
 minima:
   skin: dark
