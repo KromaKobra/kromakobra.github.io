@@ -1,1 +1,2 @@
-# kromakobra.github.io
+# Kroma Kobra Website
+## More information soon
