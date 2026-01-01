@@ -24,14 +24,13 @@
     background-color: #0c0c0c;
   }
 
-  .site-title,
-  .site-title:visited,
-  .site-nav .page-link,
-  .site-nav .page-link:visited {
+  .site-header a,
+  .site-header a:visited {
     color: #e0e0e0 !important;
   }
 
-  pre, code {
+  pre,
+  code {
     background-color: #1e1e1e;
   }
 }
