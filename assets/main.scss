@@ -21,7 +21,13 @@
 
   .site-header,
   .site-footer {
-    background-color: #686868;
+    background-color: #0c0c0c;
+  }
+
+  .site-header,
+  .site-header a,
+  .site-title {
+    color: #e0e0e0 !important;
   }
 
   pre, code {
