@@ -14,9 +14,8 @@
   }
 
   hr {
-    border: none;
-    height: 1px;
-    background-color: #30363d; /* GitHub-style dark divider */
+    border: 0;
+    border-top: 1px solid #30363d !important;
     margin: 2rem 0;
   }
 
