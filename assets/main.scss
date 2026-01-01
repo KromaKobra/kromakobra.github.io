@@ -24,9 +24,10 @@
     background-color: #0c0c0c;
   }
 
-  .site-header,
-  .site-header a,
-  .site-title {
+  .site-title,
+  .site-title:visited,
+  .site-nav .page-link,
+  .site-nav .page-link:visited {
     color: #e0e0e0 !important;
   }
 
