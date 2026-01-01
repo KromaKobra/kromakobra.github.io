@@ -6,6 +6,7 @@ minima:
   skin: dark
 
 markdown: kramdown
+header_pages: []
 
 kramdown:
   math_engine: katex
